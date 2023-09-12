@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proycto Comparar</string>
+    <string name="resultado">Resultado</string>
+    <string name="button">Button</string>
+    <string name="campo1">CAMPO1</string>
+    <string name="campo2">CAMPO2</string>
+</resources>
